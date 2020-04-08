@@ -1,0 +1,6 @@
+export const SET_BOARD = 'SET_BOARD'
+export const SET_NAME = 'SET_NAME'
+export const CHANGE_BOARD = 'CHANGE_BOARD'
+export const SET_STATUS = 'SET_STATUS'
+export const SOLVE_BOARD = 'SOLVE_BOARD'
+export const RESET_GAME = 'RESET_GAME'
